@@ -1,0 +1,9 @@
+c:\users\skapoor\source\repos\HotelProject\HotelProject\bin\Debug\HotelProject.dll.config
+c:\users\skapoor\source\repos\HotelProject\HotelProject\bin\Debug\HotelProject.dll
+c:\users\skapoor\source\repos\HotelProject\HotelProject\bin\Debug\HotelProject.pdb
+c:\users\skapoor\source\repos\HotelProject\HotelProject\bin\Debug\Newtonsoft.Json.dll
+c:\users\skapoor\source\repos\HotelProject\HotelProject\bin\Debug\Newtonsoft.Json.xml
+c:\users\skapoor\source\repos\HotelProject\HotelProject\obj\Debug\HotelProject.csprojResolveAssemblyReference.cache
+c:\users\skapoor\source\repos\HotelProject\HotelProject\obj\Debug\HotelProject.csproj.CoreCompileInputs.cache
+c:\users\skapoor\source\repos\HotelProject\HotelProject\obj\Debug\HotelProject.dll
+c:\users\skapoor\source\repos\HotelProject\HotelProject\obj\Debug\HotelProject.pdb
